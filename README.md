@@ -2,9 +2,6 @@
 
 
 - 🔭 Hoje não trabalho, apenas estudo.
-- 🌱 estudando Html, Css, Javascript e Node.js.
+- 🌱 estudando Html, Css, Javascript e Node.js, e estudando PHP na instituição: Senac.
 - 😄 Pronouns: ela / dela
 
-<div>
- <a href="https://beacons.al/luanabmdasilva">
- <img height="180cm" src="https://github-redmi-status.vercel.app/api?username-luanabmdasilva&show_icons-true&theme-darck&include_all_commits-true&>
