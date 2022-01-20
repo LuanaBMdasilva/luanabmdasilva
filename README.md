@@ -1,4 +1,4 @@
-### <strong>Olá! eu sou a Luana B M da Silva.</strong>👋
+### <h1>Olá! eu sou a Luana B M da Silva.</h1>👋
 
 
 - 🔭 Hoje não trabalho, apenas estudo.
