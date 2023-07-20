@@ -1,7 +1,7 @@
 ### <h1>Olá! eu sou a Luana B M da Silva.</h1>👋
 
 
-- 🔭 Hoje trabalho e estudo.
+- 🔭 Atualmente eu estudo.
 - 🌱 estudando Html, Css, Javascript e futuramente Node.js.
 - 😄 Pronouns: ela / dela
 
